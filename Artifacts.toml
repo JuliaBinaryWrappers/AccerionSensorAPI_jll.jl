@@ -1,0 +1,180 @@
+[[AccerionSensorAPI]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dc7496265ae160488c3f0a7f31cc3952d828925b"
+libc = "glibc"
+os = "linux"
+
+    [[AccerionSensorAPI.download]]
+    sha256 = "a265d4e280813ca541bb5afcff2a84da9274fedce50af12df0188ee2ac565f1e"
+    url = "https://github.com/JuliaBinaryWrappers/AccerionSensorAPI_jll.jl/releases/download/AccerionSensorAPI-v0.1.0+0/AccerionSensorAPI.v0.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[AccerionSensorAPI]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "37d0327533ecb53d1d3bad1efbacd195a3bdffc9"
+libc = "glibc"
+os = "linux"
+
+    [[AccerionSensorAPI.download]]
+    sha256 = "f6c4c655f00627b9917ec75665e94309243b381889327864f5b33f6f5b16b149"
+    url = "https://github.com/JuliaBinaryWrappers/AccerionSensorAPI_jll.jl/releases/download/AccerionSensorAPI-v0.1.0+0/AccerionSensorAPI.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[AccerionSensorAPI]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9af9b18cda07bb8dba7e1b125fa20c4ddb50a162"
+libc = "musl"
+os = "linux"
+
+    [[AccerionSensorAPI.download]]
+    sha256 = "534a3ec7656eb42aa69714f106ddcc05d379fdc581b98f57490f9b1dbf8c16c9"
+    url = "https://github.com/JuliaBinaryWrappers/AccerionSensorAPI_jll.jl/releases/download/AccerionSensorAPI-v0.1.0+0/AccerionSensorAPI.v0.1.0.aarch64-linux-musl-cxx03.tar.gz"
+[[AccerionSensorAPI]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4fcb451b18e2ccaafd7a30542257e95649fc70cd"
+libc = "musl"
+os = "linux"
+
+    [[AccerionSensorAPI.download]]
+    sha256 = "c4c24458d37e82397976dd33aebf9176043a2975a69950137eede20be5e4d7a1"
+    url = "https://github.com/JuliaBinaryWrappers/AccerionSensorAPI_jll.jl/releases/download/AccerionSensorAPI-v0.1.0+0/AccerionSensorAPI.v0.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[AccerionSensorAPI]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "72dd0e2f60ddf6f40c06694d8490dd916c04d9ea"
+libc = "glibc"
+os = "linux"
+
+    [[AccerionSensorAPI.download]]
+    sha256 = "04a2e01a7824c6a1977e1c238e9fdfa32d6812142e402b69fa67d6ffa97d1455"
+    url = "https://github.com/JuliaBinaryWrappers/AccerionSensorAPI_jll.jl/releases/download/AccerionSensorAPI-v0.1.0+0/AccerionSensorAPI.v0.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[AccerionSensorAPI]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2a9188b336d5b44eeb11cfc06d366016362a2ecb"
+libc = "glibc"
+os = "linux"
+
+    [[AccerionSensorAPI.download]]
+    sha256 = "fe4209144f77c9f93b973c431fee2c48f522efde40f95bd50bb4b5b117239989"
+    url = "https://github.com/JuliaBinaryWrappers/AccerionSensorAPI_jll.jl/releases/download/AccerionSensorAPI-v0.1.0+0/AccerionSensorAPI.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[AccerionSensorAPI]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1a10a19da4fb0211a62a9f0d9a9224482526b3f3"
+libc = "musl"
+os = "linux"
+
+    [[AccerionSensorAPI.download]]
+    sha256 = "0a76f85711a569ca63e93b85064a73f73ebcb30c6df5ee139060bf2a39362917"
+    url = "https://github.com/JuliaBinaryWrappers/AccerionSensorAPI_jll.jl/releases/download/AccerionSensorAPI-v0.1.0+0/AccerionSensorAPI.v0.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[AccerionSensorAPI]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "31b9ba3012fb40303230fc0aed0a5d95f4e8d59e"
+libc = "musl"
+os = "linux"
+
+    [[AccerionSensorAPI.download]]
+    sha256 = "664a0f415b7ea63a753b930d909ce39bae8abd8e162bf19053e70196e02bbf61"
+    url = "https://github.com/JuliaBinaryWrappers/AccerionSensorAPI_jll.jl/releases/download/AccerionSensorAPI-v0.1.0+0/AccerionSensorAPI.v0.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[AccerionSensorAPI]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4da6e22f41394d45e8424a551e2090734239498c"
+libc = "glibc"
+os = "linux"
+
+    [[AccerionSensorAPI.download]]
+    sha256 = "813ac8ba510b9465da229fa7335e5091433af13dca40c003e00d9326100fdb41"
+    url = "https://github.com/JuliaBinaryWrappers/AccerionSensorAPI_jll.jl/releases/download/AccerionSensorAPI-v0.1.0+0/AccerionSensorAPI.v0.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[AccerionSensorAPI]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e4fce9fa7512ca7a9e587fe6a9e4286b90ee5184"
+libc = "glibc"
+os = "linux"
+
+    [[AccerionSensorAPI.download]]
+    sha256 = "f9901726990a3c4cfc01ed84e5bf23ca964d52ca6e21001298c7160ff885246c"
+    url = "https://github.com/JuliaBinaryWrappers/AccerionSensorAPI_jll.jl/releases/download/AccerionSensorAPI-v0.1.0+0/AccerionSensorAPI.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[AccerionSensorAPI]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fcc30557f38a54908e628f540d91cca403e9387e"
+libc = "musl"
+os = "linux"
+
+    [[AccerionSensorAPI.download]]
+    sha256 = "f1342d6570ff61d097618843a37a4e515a8d44a11746f5a608d5b1e3f7aadf37"
+    url = "https://github.com/JuliaBinaryWrappers/AccerionSensorAPI_jll.jl/releases/download/AccerionSensorAPI-v0.1.0+0/AccerionSensorAPI.v0.1.0.i686-linux-musl-cxx03.tar.gz"
+[[AccerionSensorAPI]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "98250807aa3147c39931c274f0d56354bea2f7e6"
+libc = "musl"
+os = "linux"
+
+    [[AccerionSensorAPI.download]]
+    sha256 = "c2fe643e1043372392091eca21b49c96a4b96fdb5935ea4578045007765082ea"
+    url = "https://github.com/JuliaBinaryWrappers/AccerionSensorAPI_jll.jl/releases/download/AccerionSensorAPI-v0.1.0+0/AccerionSensorAPI.v0.1.0.i686-linux-musl-cxx11.tar.gz"
+[[AccerionSensorAPI]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f6910a7cea2e7841f8770ddd5582fc5cc04df3a0"
+libc = "glibc"
+os = "linux"
+
+    [[AccerionSensorAPI.download]]
+    sha256 = "3cd0605dc7746b969b2574b2d537a487a89c93f370dcaf667b5950c24546e892"
+    url = "https://github.com/JuliaBinaryWrappers/AccerionSensorAPI_jll.jl/releases/download/AccerionSensorAPI-v0.1.0+0/AccerionSensorAPI.v0.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[AccerionSensorAPI]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "916eda6e2b23f0cb8b383d48e11f0c9f1c99895a"
+libc = "glibc"
+os = "linux"
+
+    [[AccerionSensorAPI.download]]
+    sha256 = "e113c6738264455237403662ea56af49bfc318114976f6c9838e81594182fc53"
+    url = "https://github.com/JuliaBinaryWrappers/AccerionSensorAPI_jll.jl/releases/download/AccerionSensorAPI-v0.1.0+0/AccerionSensorAPI.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[AccerionSensorAPI]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5b645b42530dcbf713cd7b1a39b7acfdec1715e8"
+libc = "glibc"
+os = "linux"
+
+    [[AccerionSensorAPI.download]]
+    sha256 = "cd1bf0958886a5880f25ba31d81e372916a9d14e9f5004ed7913cf370d49f80e"
+    url = "https://github.com/JuliaBinaryWrappers/AccerionSensorAPI_jll.jl/releases/download/AccerionSensorAPI-v0.1.0+0/AccerionSensorAPI.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[AccerionSensorAPI]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "162fb4e7243abf4e33a108e6031cecd9715fbad7"
+libc = "glibc"
+os = "linux"
+
+    [[AccerionSensorAPI.download]]
+    sha256 = "5e84aa19ca7f628ea6835ca557a8040d33c6065bf4390522e4990de29402495c"
+    url = "https://github.com/JuliaBinaryWrappers/AccerionSensorAPI_jll.jl/releases/download/AccerionSensorAPI-v0.1.0+0/AccerionSensorAPI.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[AccerionSensorAPI]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ad3e486ce773aa30fe28da12e876f45431f714cd"
+libc = "musl"
+os = "linux"
+
+    [[AccerionSensorAPI.download]]
+    sha256 = "d1f1442fdb1e162cc90289dac8cdc9ae7a4a13e2e1af3c7fbe06d242f0243842"
+    url = "https://github.com/JuliaBinaryWrappers/AccerionSensorAPI_jll.jl/releases/download/AccerionSensorAPI-v0.1.0+0/AccerionSensorAPI.v0.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[AccerionSensorAPI]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4a677350a03e553dda4344b507fa5f32201e2f86"
+libc = "musl"
+os = "linux"
+
+    [[AccerionSensorAPI.download]]
+    sha256 = "e6cea66fb74042fa16845926ad1bd31e21dda4f52ccde46aedc082334dfe9047"
+    url = "https://github.com/JuliaBinaryWrappers/AccerionSensorAPI_jll.jl/releases/download/AccerionSensorAPI-v0.1.0+0/AccerionSensorAPI.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
